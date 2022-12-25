@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option csharp_namespace = "gRPCMiddleWare";
+
+package blockchain;
+
+service BlockchainService {
+    rpc getBlockchain (req) returns (res);
+    rpc getBlockByHash (req) returns (res);
+    rpc getDifficultyAndminingReward (req) returns (res);
+    rpc setDifficultyAndminingReward (req) returns (res);
+}
+
+message req{
+    var req = 1;
+}
+message res{
+    var res = 1;
+}

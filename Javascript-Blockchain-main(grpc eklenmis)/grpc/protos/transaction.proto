@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option csharp_namespace = "gRPCMiddleWare";
+
+package transaction;
+
+service TransactionService {
+    rpc AddTransaction (req) returns (res);
+    rpc minerPendingTransactions (req) returns (res);
+    rpc getTransactionsOfAddress (req) returns (res);
+    rpc getPendingTransactions (req) returns (res);
+}
+
+message req{
+    var req = 1;
+}
+message res{
+    var res = 1;
+}
