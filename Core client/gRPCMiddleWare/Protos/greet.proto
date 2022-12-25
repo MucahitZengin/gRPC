@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "gRPCMiddleWare";
+
+package greet; //bunu açýnca patlýyordu
+
+service GreeterService {
+    rpc SayHello (istek) returns (yanit);
+}
+
+message istek {
+    string name = 1;
+}
+
+message yanit {
+    string mesaj = 1;
+}

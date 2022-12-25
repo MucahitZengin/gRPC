@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KrNvHaykLUf2BSrTC/QOtka+2e+8yYCIBG1p9buR7e7/kRTUbq+/w1gLNsTMknIWc4hgXOdt8fZrUuct+7JSZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mczen\\OneDrive\\Masaüstü\\node basitleştirme\\Core client\\gRPCMiddleWare\\gRPCMiddleWare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mczen\\.nuget\\packages\\google.protobuf\\3.21.12\\google.protobuf.3.21.12.nupkg.sha512",
+    "C:\\Users\\mczen\\.nuget\\packages\\grpc.core.api\\2.50.0\\grpc.core.api.2.50.0.nupkg.sha512",
+    "C:\\Users\\mczen\\.nuget\\packages\\grpc.net.client\\2.50.0\\grpc.net.client.2.50.0.nupkg.sha512",
+    "C:\\Users\\mczen\\.nuget\\packages\\grpc.net.common\\2.50.0\\grpc.net.common.2.50.0.nupkg.sha512",
+    "C:\\Users\\mczen\\.nuget\\packages\\grpc.tools\\2.51.0\\grpc.tools.2.51.0.nupkg.sha512",
+    "C:\\Users\\mczen\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\mczen\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,42 @@
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\bin\Debug\net7.0\gRPCMiddleWare.exe
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\bin\Debug\net7.0\gRPCMiddleWare.deps.json
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\bin\Debug\net7.0\gRPCMiddleWare.runtimeconfig.json
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\bin\Debug\net7.0\gRPCMiddleWare.dll
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\bin\Debug\net7.0\gRPCMiddleWare.pdb
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\bin\Debug\net7.0\Grpc.Core.Api.dll
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\obj\Debug\net7.0\gRPCMiddleWare.csproj.AssemblyReference.cache
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\obj\Debug\net7.0\gRPCMiddleWare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\obj\Debug\net7.0\gRPCMiddleWare.AssemblyInfoInputs.cache
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\obj\Debug\net7.0\gRPCMiddleWare.AssemblyInfo.cs
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\obj\Debug\net7.0\gRPCMiddleWare.csproj.CoreCompileInputs.cache
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\obj\Debug\net7.0\gRPCMiddleWare.csproj.CopyComplete
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\obj\Debug\net7.0\gRPCMiddleWare.dll
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\obj\Debug\net7.0\refint\gRPCMiddleWare.dll
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\obj\Debug\net7.0\gRPCMiddleWare.pdb
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\obj\Debug\net7.0\gRPCMiddleWare.genruntimeconfig.cache
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\obj\Debug\net7.0\ref\gRPCMiddleWare.dll
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\bin\Debug\net7.0\Grpc.Net.Client.dll
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\bin\Debug\net7.0\Grpc.Net.Common.dll
+C:\Users\mczen\OneDrive\Masaüstü\chatGPT\Core client\gRPCMiddleWare\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\bin\Debug\net7.0\gRPCMiddleWare.exe
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\bin\Debug\net7.0\gRPCMiddleWare.deps.json
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\bin\Debug\net7.0\gRPCMiddleWare.runtimeconfig.json
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\bin\Debug\net7.0\gRPCMiddleWare.dll
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\bin\Debug\net7.0\gRPCMiddleWare.pdb
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\bin\Debug\net7.0\Grpc.Core.Api.dll
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\bin\Debug\net7.0\Grpc.Net.Client.dll
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\bin\Debug\net7.0\Grpc.Net.Common.dll
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\obj\Debug\net7.0\gRPCMiddleWare.csproj.AssemblyReference.cache
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\obj\Debug\net7.0\gRPCMiddleWare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\obj\Debug\net7.0\gRPCMiddleWare.AssemblyInfoInputs.cache
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\obj\Debug\net7.0\gRPCMiddleWare.AssemblyInfo.cs
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\obj\Debug\net7.0\gRPCMiddleWare.csproj.CoreCompileInputs.cache
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\obj\Debug\net7.0\gRPCMiddleWare.csproj.CopyComplete
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\obj\Debug\net7.0\gRPCMiddleWare.dll
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\obj\Debug\net7.0\refint\gRPCMiddleWare.dll
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\obj\Debug\net7.0\gRPCMiddleWare.pdb
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\obj\Debug\net7.0\gRPCMiddleWare.genruntimeconfig.cache
+C:\Users\mczen\OneDrive\Masaüstü\node basitleştirme\Core client\gRPCMiddleWare\obj\Debug\net7.0\ref\gRPCMiddleWare.dll
